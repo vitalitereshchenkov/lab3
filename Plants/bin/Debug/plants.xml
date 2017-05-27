@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<ArrayOfPlant xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <plant xsi:type="cannabis">
+    <height>158</height>
+    <origin>лорпа</origin>
+    <name>Cannabis</name>
+    <type>лорп</type>
+    <weight>5</weight>
+    <price>52</price>
+    <kind>лорп</kind>
+  </plant>
+  <plant xsi:type="coriander">
+    <height>852</height>
+    <origin>лор</origin>
+    <name>coriander</name>
+    <type>длор</type>
+    <weight>875</weight>
+    <price>85</price>
+    <recipe>орп</recipe>
+  </plant>
+  <plant xsi:type="birch">
+    <height>852</height>
+    <origin>длор</origin>
+    <name>Birch</name>
+    <leavesType>лор</leavesType>
+    <age>45</age>
+  </plant>
+  <plant xsi:type="birch">
+    <height>176</height>
+    <origin>беларусь</origin>
+    <name>Birch</name>
+    <leavesType>листовой</leavesType>
+    <age>25</age>
+  </plant>
+</ArrayOfPlant>

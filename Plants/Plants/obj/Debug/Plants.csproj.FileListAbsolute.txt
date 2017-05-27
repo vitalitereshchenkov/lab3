@@ -1,0 +1,9 @@
+c:\users\v\documents\visual studio 2015\Projects\Plants\Plants\bin\Debug\Plants.exe.config
+c:\users\v\documents\visual studio 2015\Projects\Plants\Plants\bin\Debug\Plants.exe
+c:\users\v\documents\visual studio 2015\Projects\Plants\Plants\bin\Debug\Plants.pdb
+c:\users\v\documents\visual studio 2015\Projects\Plants\Plants\obj\Debug\Plants.csprojResolveAssemblyReference.cache
+c:\users\v\documents\visual studio 2015\Projects\Plants\Plants\obj\Debug\Plants.Form1.resources
+c:\users\v\documents\visual studio 2015\Projects\Plants\Plants\obj\Debug\Plants.Properties.Resources.resources
+c:\users\v\documents\visual studio 2015\Projects\Plants\Plants\obj\Debug\Plants.csproj.GenerateResource.Cache
+c:\users\v\documents\visual studio 2015\Projects\Plants\Plants\obj\Debug\Plants.exe
+c:\users\v\documents\visual studio 2015\Projects\Plants\Plants\obj\Debug\Plants.pdb
